@@ -1,4 +1,4 @@
-#Portfolio Optimizer incorporating risk assessment 
+##Portfolio Optimizer incorporating risk assessment 
 
 An end-to-end quantitative researchpipeline that performs stock screening, Mean-Variance Optimization (MVO), Out-of-Sample (OOS) testing, and Monte Carlo stress testing.
 
